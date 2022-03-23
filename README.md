@@ -3,6 +3,7 @@ Music Player using vanilla JS, HTML and CSS
 
 https://music-player-site.herokuapp.com/
 
-<img src = '/website-images/img1.png' width = '700'>
-<img src = '/website-images/img2.png' width = '700'>
-<img src = '/website-images/img3.png' width = '700'>
+
+
+https://user-images.githubusercontent.com/91837700/159748549-bd67a429-50ef-4de9-a4ae-b254aeaf8c72.mov
+
